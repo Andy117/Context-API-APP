@@ -1,5 +1,3 @@
-import UserInfoContext from "../context/UserInfoContext";
-
 function Comment({ userName, isAdmin }) {
   return (
     <div>
